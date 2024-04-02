@@ -422,7 +422,7 @@ Male <input type="radio" name="Gender" id="Male" required>
 Female <input type="radio" name="Gender" id="Female" required>
 </p>
 <p>Email : * <input type="email" name="Email" id="Email" required></p>
-<p>Address : <textarea name="Address" id="Address" cols="50"
+<p>Address : <input type="address" name="Address" id="Address" cols="50"
 rows="8"></textarea></p>
 <p>Pincode : * <input type="number" name="Pincode" id="Pincode" required></p>
 <h2>Payment Information</h2>
