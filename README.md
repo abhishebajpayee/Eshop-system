@@ -2,21 +2,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title > Electronic shop </title>
-<link rel="stylesheet" type="text/css"
-href="C:\Users\Shubham\abhishek\.vscode\eshop project\text.css" />
-<link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css"
-rel="stylesheet">
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
-rel="stylesheet"
-integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD"
-crossorigin="anonymous">
-<script src="C:\Users\Shubham\abhishek\.vscode\eshop project\eshop.js"></script>
-<script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
-integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
-crossorigin="anonymous"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
 </head>
 <body>
 <h1 style="color:red; width: 200px; text-align:left; padding:
@@ -423,7 +408,7 @@ Female <input type="radio" name="Gender" id="Female" required>
 </p>
 <p>Email : * <input type="email" name="Email" id="Email" required></p>
 <p>Address : <input type="address" name="Address" id="Address" cols="50"
-rows="8"></textarea></p>
+rows="8"></p>
 <p>Pincode : * <input type="number" name="Pincode" id="Pincode" required></p>
 <h2>Payment Information</h2>
 <p>Card Type : * <select name="Card_Type" id="Card_Type" required>
